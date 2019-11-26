@@ -1,0 +1,15 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (PlayQuran) {
+      local-endpoint (PlayQuran.js)
+    }
+    action-endpoint (BuildQuranAudioInfo) {
+      accepted-inputs (quranAudio)
+      local-endpoint (BuildQuranAudioInfo.js)
+    }
+    action-endpoint (FindQuran) {
+      accepted-inputs (searchTerm)
+      local-endpoint (FindQuran.js)
+    }
+  }
+}

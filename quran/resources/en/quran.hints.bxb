@@ -1,0 +1,16 @@
+hints {
+  uncategorized {
+    hint (With Quran, play quran){
+          preferred-hint ("Play Quran")
+        }
+    hint (Ask Quran, play chapter one){
+          preferred-hint ("Play Chapter One")
+        }
+    hint (In Quran, play Surah Yasin){
+          preferred-hint ("Play Surah Yasin")
+        }
+    hint (With Quran, Listen to Quran){
+          preferred-hint ("Listen to Quran")
+        }
+  }
+}

@@ -1,0 +1,3 @@
+structure (QuranAudio) {
+  role-of (audioPlayer.AudioItem)
+}

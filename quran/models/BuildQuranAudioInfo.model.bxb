@@ -1,0 +1,16 @@
+action (BuildQuranAudioInfo) {
+  type (Search)
+  description (Makes a quran audio info, aka a playlist, to play.)
+  collect {
+    input (quranAudio) {
+      type (QuranAudio)
+      min (Required) max (Many)
+      default-init {
+        intent {
+          goal: FindQuran
+        }
+      }
+    }
+  }
+  output (audioPlayer.AudioInfo)
+}
