@@ -6,6 +6,9 @@ hints {
     hint (Ask Quran, play chapter one){
           preferred-hint ("Play Chapter One")
         }
+    hint (Ask Quran to play the opening){
+      preferred-hint ("Play The Opening")
+    }
     hint (In Quran, play Surah Yasin){
           preferred-hint ("Play Surah Yasin")
         }

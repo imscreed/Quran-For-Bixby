@@ -1,7 +1,7 @@
 var quranAudio = require('./quranAudio.js')
 
 module.exports.function = function findQuran(searchTerm) {
-    const keysToSearchOn = ['title', 'chapter', 'subtitle', 'albumName']
+    const keysToSearchOn = ['title', 'chapter', 'subtitle']
     let quranAudioFound = []
 
     if (searchTerm) {

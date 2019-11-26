@@ -2,8 +2,8 @@ capsule-info {
   display-name (Holy Quran)
   dispatch-name (Quran)
   developer-name (Dailydazzles)
-  icon-asset (/images/bixby-logo.png)
-  description ("Easily play any chapter from the Holy Quran")
+  icon-asset (/images/quran_bixby_logo.png)
+  description ("Easily play any chapter from the Holy Quran.")
   website-url (https://bixbydevelopers.com)
   search-keywords {
     keyword (quran)
