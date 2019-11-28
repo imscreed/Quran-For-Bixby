@@ -447,6 +447,306 @@ const audioItems = [{
     artist: "Sheikh Sa'ad Al-Ghamdi",
     albumName: "Quran",
     albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 31,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/031-luqman.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Luqman",
+    subtitle: "Luqman",
+    chapter: "Thirty One",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 32,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/032-as-sajdah.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "As Sajdah",
+    subtitle: "The Prostration",
+    chapter: "Thirty Two",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 33,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/033-al-ahzab.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Al Ahzab",
+    subtitle: "The Confederates",
+    chapter: "Thirty Three",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 34,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/034-saba.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Saba",
+    subtitle: "Sheba",
+    chapter: "Thirty Four",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 35,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/035-fatir.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Fatir",
+    subtitle: "The Originator of Creation",
+    chapter: "Thirty Five",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 36,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/036-ya-sin.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Yasin",
+    subtitle: "Yasin",
+    chapter: "Thirty Six",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 37,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/037-as-saffat.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "As Saffat",
+    subtitle: "Those Ranged in Ranks",
+    chapter: "Thirty Seven",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 38,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/038-sad.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Sad",
+    subtitle: "Sad",
+    chapter: "Thirty Eight",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 39,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/039-az-zumar.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Az Zumar",
+    subtitle: "The Groups",
+    chapter: "Thirty Nine",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 40,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/040-ghafir.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Ghafir",
+    subtitle: "The Forgiver",
+    chapter: "Fourty",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 41,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/041-fussilat.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Fussilat",
+    subtitle: "They are explained in detail",
+    chapter: "Fourty One",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 42,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/042-ash-shura.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Ash Shura",
+    subtitle: "The Consultation",
+    chapter: "Fourty Two",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 43,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/043-az-zukhruf.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Az Zukhruf",
+    subtitle: "The Gold Adornments",
+    chapter: "Fourty Three",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 44,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/044-ad-dukhan.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Ad Dukhan",
+    subtitle: "The Smoke",
+    chapter: "Fourty Four",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 45,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/045-al-jathiyah.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Al Jathiyah",
+    subtitle: "The Kneeling",
+    chapter: "Fourty Five",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 46,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/046-al-ahqaf.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Al Ahqaf",
+    subtitle: "The Curved Sand-hills",
+    chapter: "Fourty Six",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 47,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/047-muhammad.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Muhammad",
+    subtitle: "Muhammad",
+    chapter: "Fourty Seven",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 48,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/048-al-fath.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Al Fath",
+    subtitle: "The Victory",
+    chapter: "Fourty Eight",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 49,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/049-al-hujurat.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Al Hujarat",
+    subtitle: "The Dwellings",
+    chapter: "Fourty Nine",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
+  },
+  {
+    id: 50,
+    stream: [
+      {
+        url: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/050-qaf.mp3?alt=media",
+        format: "mp3"
+      }
+    ],
+    title: "Qaf",
+    subtitle: "Qaf",
+    chapter: "Fifty",
+    artist: "Sheikh Sa'ad Al-Ghamdi",
+    albumName: "Quran",
+    albumArtUrl: "https://firebasestorage.googleapis.com/v0/b/emaan-central.appspot.com/o/quran_logo.png?alt=media"
   }]
 
   exports.audioItems = audioItems

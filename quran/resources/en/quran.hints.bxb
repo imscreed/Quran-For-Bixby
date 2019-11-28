@@ -13,7 +13,7 @@ hints {
           preferred-hint ("Play Surah Yasin")
         }
     hint (With Quran, Listen to Quran){
-          preferred-hint ("Listen to Quran")
+          preferred-hint ("Listen to Holy Quran")
         }
   }
 }
